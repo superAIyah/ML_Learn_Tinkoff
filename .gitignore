@@ -1,3 +1,4 @@
 # Будем игнорировать csv файлы т.к. на github есть лимит памяти загружаемых файлов
 .csv
 .ipynb_checkpoints
+creditcard.csv
